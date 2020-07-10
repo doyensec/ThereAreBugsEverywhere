@@ -1,14 +1,15 @@
 # There Are Bugs Everywhere Wallpapers
 
-These wallpapers are just a funny reminder that vulnerabilities are hidden .... everywhere ;-)
+**Where are the bugs? They're everywhere!** Show them some love with these stylish new “There Are Bugs Everywhere" wallpapers. 
 
-Wallpapers are in various resolutions so please check folder names.
+<p align="center">
+	<img src="https://github.com/doyensec/ThereAreBugsEverywhere/raw/master/ThereAreBugsCollage.jpg">
+</p>
 
-Resolutions:
+Wallpapers have been made in various resolutions:
+* [1366x768](https://github.com/doyensec/ThereAreBugsEverywhere/tree/master/1366x768)
+* [1440x900](https://github.com/doyensec/ThereAreBugsEverywhere/tree/master/1440x900)
+* [1920x1080](https://github.com/doyensec/ThereAreBugsEverywhere/tree/master/1920x1080)
+* [Retina (3904x2824)](https://github.com/doyensec/ThereAreBugsEverywhere/tree/master/retina)
 
-https://github.com/doyensec/ThereAreBugsEverywhere/tree/master/1366x768
-https://github.com/doyensec/ThereAreBugsEverywhere/tree/master/1440x900
-https://github.com/doyensec/ThereAreBugsEverywhere/tree/master/1920x1080
-https://github.com/doyensec/ThereAreBugsEverywhere/tree/master/retina
-
-Remember - #ThereAreBugsEverywhere
+And remember...*#ThereAreBugsEverywhere*
